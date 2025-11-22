@@ -26,4 +26,5 @@ public class Example {
 		}
 	}
 }
-Please Enter three Nu
+
+
