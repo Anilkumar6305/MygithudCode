@@ -4,7 +4,22 @@ num1 = float(input("Enter first number: "))
 num2 = float(input("Enter second number: "))
 
 sum_of_numbers = num1 + num2
-print(f"The sum of {num1} and {num2} is: {sum_of_numbers}")
+print(f"The sum of {num1} and {num2} is: {sum_of_number)
+
+
+//Adding version3 code wiht pull the updated code
+
+my_list = []
+my_list.append("apple")
+my_list.append("banana")
+my_list.append("cherry")
+
+print("Items in the list:")
+for item in my_list:
+    print(item)
+
+print(f"The first item is: {my_list[0]}")
+
 
 //Adding the version1 code
 
@@ -22,3 +37,17 @@ if num < 0:
     print("Factorial is not defined for negative numbers.")
 else:
     print(f"The factorial of {num} is {factorial(num)}")
+
+
+//Adding version3 code wiht pull the updated code
+
+my_list = []
+my_list.append("apple")
+my_list.append("banana")
+my_list.append("cherry")
+
+print("Items in the list:")
+for item in my_list:
+    print(item)
+
+print(f"The first item is: {my_list[0]}")
