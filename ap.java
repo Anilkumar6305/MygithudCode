@@ -27,4 +27,20 @@ public class Example {
 	}
 }
 
+//Adding the version3 java code
 
+public class MyMethods {
+    public static void greet(String name) {
+        System.out.println("Hello, " + name + "!");
+    }
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    public static void main(String[] args) {
+        greet("Alice"); // Output: Hello, Alice!
+        int result = add(15, 20);
+        System.out.println("Sum: " + result); // Output: Sum: 35
+    }
+}
